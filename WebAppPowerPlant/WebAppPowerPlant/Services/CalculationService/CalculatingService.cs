@@ -93,7 +93,7 @@ namespace PowerPlantApplication.Services
                             new PayLoadResponse
                             {
                                 Name = plantDetails.Name,
-                                P = plantDetails.EfficiencyPmax
+                                P = Math.Round(plantDetails.EfficiencyPmax, 1)
                             });
 
                         load -= plantDetails.EfficiencyPmax;
@@ -112,7 +112,7 @@ namespace PowerPlantApplication.Services
                     if (requestedLoad < 0 && load < plantDetails.Pmin)
                     {
                         PayLoadResponse lastPowerPlant = payLoadResponses.LastOrDefault();
-                        lastPowerPlant.P = lastPowerPlant.P - plantDetails.Pmin + load;
+                        lastPowerPlant.P = Math.Round(lastPowerPlant.P - plantDetails.Pmin + load, 1);
 
                         payLoadResponses.Add(
                             new PayLoadResponse
