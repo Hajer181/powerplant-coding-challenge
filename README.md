@@ -1,5 +1,5 @@
 # Build & run web application:
-	   1) Open the folder of the Api application : powerplant-coding-challenge/WebAppPowerPlant/WebAppPowerPlant
+	    1) Open the folder of the Api application : powerplant-coding-challenge/WebAppPowerPlant/WebAppPowerPlant
            2) Open commande prompt (cmd) in this folder
            3) To build the application execute: dotnet build
            4) To run the application execute : donet run
