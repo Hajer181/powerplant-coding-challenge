@@ -1,0 +1,67 @@
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.csproj.AssemblyReference.cache
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.AssemblyInfoInputs.cache
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.AssemblyInfo.cs
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.csproj.CoreCompileInputs.cache
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\appsettings.json
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\PayLoads\payload.json
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.exe
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.deps.json
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.runtimeconfig.json
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.runtimeconfig.dev.json
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\ref\WebAppPowerPlant.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.pdb
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\WebAppPowerPlant.StaticWebAssets.Manifest.cache
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\WebAppPowerPlant.StaticWebAssets.xml
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\scopedcss\bundle\WebAppPowerPlant.styles.css
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.RazorTargetAssemblyInfo.cache
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.csproj.CopyComplete
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\ref\WebAppPowerPlant.dll
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.pdb
+C:\Users\Hajer Haj Dahmane\source\repos\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.genruntimeconfig.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\appsettings.Development.json
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\appsettings.json
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\PayLoads\payload.json
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.StaticWebAssets.xml
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.exe
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.deps.json
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.runtimeconfig.json
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.runtimeconfig.dev.json
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\WebAppPowerPlant.pdb
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.csproj.AssemblyReference.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.AssemblyInfoInputs.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.AssemblyInfo.cs
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.csproj.CoreCompileInputs.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.MvcApplicationPartsAssemblyInfo.cs
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.MvcApplicationPartsAssemblyInfo.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\scopedcss\bundle\WebAppPowerPlant.styles.css
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\WebAppPowerPlant.StaticWebAssets.Manifest.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\WebAppPowerPlant.StaticWebAssets.Pack.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\msbuild.WebAppPowerPlant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAppPowerPlant.props
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAppPowerPlant.props
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAppPowerPlant.props
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.RazorTargetAssemblyInfo.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.csproj.CopyComplete
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\refint\WebAppPowerPlant.dll
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.pdb
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\WebAppPowerPlant.genruntimeconfig.cache
+C:\CodeChallenge\WebAppPowerPlant\WebAppPowerPlant\obj\Debug\net5.0\ref\WebAppPowerPlant.dll
